@@ -4,7 +4,7 @@ _Student name_: Shrinithi Narayanan
 _Student NetID_: sn32
 
 ## Problem 1
-- Scenario: {Stadium}
+- Scenario: Stadium
 - Assumptions:
   - I am making no assumptions.
 - Assets:
@@ -15,7 +15,7 @@ _Student NetID_: sn32
   - explanatory_paragraph
 
 ## Problem 2
-- Scenario: {TSA}
+- Scenario: TSA
 - Assumptions:
   - I am making no assumptions.
 - Assets:
@@ -26,12 +26,13 @@ _Student NetID_: sn32
   - Some countermeasures that can be taken are some things that the TSA already implements. They have an X-ray machine to scan bags and metal detectors for people.
 
 ## Problem 3
-- Scenario: Your choice (give a brief explanation)
+- Scenario: Rice Coffeehouse
+- Explanation of choice: You are the manager of Rice Coffeehouse and make sure you can serve all your customers.
 - Assumptions:
-  - explain_your_assumptions
+  - I don't actually work at coffeehouse, but I'm going to assume the general manager has unilateral control over certain aspects of Coffeehouse that other workers don't.
 - Assets:
-  - explanatory_paragraph
+  - You have to make sure you protect all the food and coffee items and ingredients that are used on a daily basis. You also need to protect equipment to make sure that the coffee can be successfully made.
 - Threats:
-  - explanatory_paragraph 
+  - There are people that love coffee a lot and might be willing to steal it.
 - Countermeasures:
-  - explanatory_paragraph
+  - We should lock up everything important, and make sure to lock down the area when there is no one on shift.
