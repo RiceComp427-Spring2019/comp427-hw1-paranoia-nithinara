@@ -47,12 +47,22 @@ _Student NetID_: sn32
 
 ## Problem 3
 - Scenario: Rice Coffeehouse
-- Explanation of choice: You are the manager of Rice Coffeehouse and make sure you can serve all your customers.
+- Explanation of choice: You are the manager of Rice Coffeehouse and need to make sure you can serve all your customers and "protect" your Coffeehouse to make sure you can accomplish this goal.
 - Assumptions:
-  - I don't actually work at coffeehouse, but I'm going to assume the general manager has unilateral control over certain aspects of Coffeehouse that other workers don't.
+  - I don't actually work at Coffeehouse, but I'm going to assume the general manager has unilateral control over certain aspects of Coffeehouse that other workers don't.
 - Assets:
-  - You have to make sure you protect all the food and coffee items and ingredients that are used on a daily basis. You also need to protect equipment to make sure that the coffee can be successfully made.
+  - The food and coffee items are assets. You have to make sure you protect all the items that you sell because you don't want people tampering with them to hurt or injure other people.
+  - The equipment used to make the coffee is important to protect. Without an espresso machine, you cannot make a lot of the drinks that people order, and if you don't, the business will suffer and may not be able to stay open.
+  - The equipment in the room is an asset, because that's also what brings a lot of people to Coffeehouse, and if people steal the equipment or tamper with it, people aren't as likely to stay in Coffeehouse, and that brings down the atmosphere, which may lead to less people, and less people means less business, which could lead to closing down of the store.
+  - The items and valuables of people on shift. People on shift need some place to keep their stuff while they work. You don't want to leave it out in the open, because while Rice is usually a safe campus, it is possible that people will steal their stuff, so you need some place that they can lock their items up.
+  - The other items for coffee like cups and straws and napkins. You need to make sure that people don't steal straw and coffee tops, because customers will get annoyed if they cannot find the stuff that they need to drink their coffee and they may stop coming to Coffeehouse if they are very dissatisfied.
+  - The cash in the register, the tip jar, and card readers are assets. Anything related to money is something that people might steal in order to get the money or hack or toy with the card reader for some other reason. There are also the iPads that people might steal and resell.
 - Threats:
-  - There are people that love coffee a lot and might be willing to steal it.
+  - There are people that love coffee a lot and might be willing to steal it. You need to make sure that they cannot steal the money from the register to get free coffee, and make sure that they can't just take a cup and take free drip coffee. Implementing security cameras to make sure that people are paying wouldn't be too expensive, and it would be nice to have security cameras in case any incident takes place.
+  - Malicious people might just want to steal stuff. They might want to steal the items and valuables of people working inside Coffeehouse or working for Coffeehouse. Again, security cameras would be useful in case such an incident happens so the person can be caught, and having lockers with lockers for people to put their stuff would be useful so people cannot just take it when others aren't looking. These people might also want to hurt people and try to tamper with the coffee supply and food supply, so employees need to make sure everything is locked up behind the bar.
+  - Stupid people that aren't noticing their surroundings could be a threat. You could have someone not notice where they are and accidentally hit and break the espresso machine, or knock over coffee dispensers and things of that nature. While they are not trying to be malicious, they could break expensive items or hurt other people, so we need to make sure that things behind the bar are protected from accidents like that.
+  - Bad employees could be threats. Normally, people trust their employees not to steal, but it's possible that someone could be skimming from the register, which is why security cameras are again important. Also, in case there is a bad employee that wants to hurt people by tampering with food and coffee, cameras would help prevent/find that person.
 - Countermeasures:
-  - We should lock up everything important, and make sure to lock down the area when there is no one on shift.
+  - Locks are important for everything that needs to be safe. They are quite cheap, and could easily solve the problem of people stealing stuff from Coffeehouse, its customers, or its employees. Also, as general manager, locking up the whole Coffeehouse during closed hours to make sure no one else can go inside and tamper.
+  - Security cameras as I mentioned above would help because if something did happen, they could look at the tapes to see who did it. Also, just knowing that people are being watched would help prevent them from committing a crime or doing something bad.
+  - This isn't necessarily a physical countermeasure, but just having some good free software for accounting. This would make sure that the books are correct and that people aren't stealing money from a great non profit organization.
